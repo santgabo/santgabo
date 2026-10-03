@@ -2,12 +2,10 @@
 
 # Hi, I'm Gabriel 👋 — @santgabo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%94+Agentic+AI+%26+LLMOps;RAG+%C2%B7+MCP+%C2%B7+private+inference;6+years+shipping+LLMs+to+production;I+like+macOS+and+headless+Linux)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%94+Agentic+AI+%26+LLMOps;RAG+%C2%B7+MCP+%C2%B7+private+inference;Shipping+LLMs+to+production;I+like+macOS+and+headless+Linux)](https://git.io/typing-svg)
 
 **AI Engineer (Forward Deployed) · Agentic AI & LLMOps · AWS · Python · RAG · MCP**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsantosai)
-[![Profile Views](https://komarev.com/ghpvc/?username=santgabo&color=0e75b6&style=flat)](https://github.com/santgabo)
 [![Followers](https://img.shields.io/github/followers/santgabo?style=flat&logo=github)](https://github.com/santgabo?tab=followers)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://github.com/santgabo)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://github.com/santgabo)
@@ -24,7 +22,7 @@
 
 ## 👨‍💻 About me
 
-I'm **Gabriel Santos**, an AI Engineer working where agents meet production. Six years in software & cloud, most of it taking LLM workloads live: RAG pipelines, multi-agent orchestration, and the infrastructure around them.
+I'm **Gabriel Santos**, an AI Engineer working where agents meet production. I work across software & cloud taking LLM workloads live: RAG pipelines, multi-agent orchestration, and the infrastructure around them.
 
 What I care about: systems that are traceable, private, and cheap per query — safe defaults, evidence-backed answers, and observability from day one.
 
@@ -59,11 +57,10 @@ What I care about: systems that are traceable, private, and cheap per query — 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2A2A2A?style=for-the-badge&logo=langgraph&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
 
 **🤖 Agentic AI & LLMOps**
 
-`MCP` · `RAG` · `LangChain` · `LangGraph` · `Strands Agents` · `Amazon Bedrock` · `Titan Embeddings V2` · `DuckDB` · `LanceDB` · `ChromaDB` · `Pinecone` · `pgvector` · `PostgreSQL` · `Pulumi` · `Prometheus` · `FastAPI`
+`MCP` · `RAG` · `LangChain` · `LangGraph` · `Strands Agents` · `Amazon Bedrock` · `Titan Embeddings V2` · `DuckDB` · `LanceDB` · `Pinecone` · `pgvector` · `PostgreSQL` · `Pulumi` · `Prometheus` · `FastAPI`
 
 </div>
 
@@ -164,7 +161,6 @@ npx skills add santgabo/USBfixertool-CLI --skill usbfix-cli -g
 
 ### 📫 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gsantosai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gsantosai)
 [![Email](https://img.shields.io/badge/Email-dev.gsantosarevalo@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dev.gsantosarevalo@gmail.com)
 
 **Open an issue on any of my repos — I do reply.**
