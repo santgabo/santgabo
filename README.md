@@ -84,6 +84,24 @@ I build and operate the infrastructure that agentic AI systems live on — most 
 
 ## 🚀 Featured Projects
 
+### <img src="https://pi.dev/logo-auto.svg" width="24" align="center" alt="Pi logo"> pi-plan-claude-codex — Plan mode for Pi
+
+A conversational planning extension for **Pi Agent** inspired by Codex long-horizon planning and Claude Code plan review & approval.
+
+Explore a project, clarify decisions with options + tradeoffs, suggest useful improvements, and present a reviewable plan *before* any implementation. Read-only exploration, explicit approval, and execution in the same conversation or a clean session.
+
+```sh
+pi install npm:pi-plan-claude-codex
+```
+
+- `/plan` mode: investigate → discuss → resolve decisions → review
+- Safe by default: read-only tools only, no shell/edits until approved
+- TUI + RPC + print/JSON, docs in 6 languages, full test suite + CI
+
+🔗 **[santgabo/pi-plan-claude-codex](https://github.com/santgabo/pi-plan-claude-codex)** · `TypeScript` · `Pi Extension` · `npm: pi-plan-claude-codex`
+
+---
+
 ### 🔌 usbfix — A safer macOS CLI for USB drives
 A terminal-friendly alternative to Disk Utility for inspecting, verifying, repairing, wiping, and formatting USB drives using native macOS utilities (`diskutil`, `fsck`).
 - Safety layers: no dangerous defaults, internal-disk lock, explicit whole-disk scoping, textual confirmation (`ERASE diskN`), `--dry-run` everywhere
@@ -139,6 +157,9 @@ brew install santgabo/tap/usbfix
 ## 📦 Quick install
 
 ```bash
+# Plan mode for Pi
+pi install npm:pi-plan-claude-codex
+
 # CLI (macOS)
 brew install santgabo/tap/usbfix
 
@@ -151,6 +172,7 @@ npx skills add santgabo/USBfixertool-CLI --skill usbfix-cli -g
 
 ## 🌱 Currently
 
+- 🧭 Maintaining **pi-plan-claude-codex**: conversational `/plan` mode for Pi
 - 🔌 Hardening **usbfix**: more filesystems, more output formats
 - 🪟 Adding more operational Windows skills
 - 🤫 Cooking private builds — more to share soon
