@@ -102,6 +102,21 @@ pi install npm:pi-plan-claude-codex
 
 ---
 
+### 🧠 skills — Original agent skills
+A collection of original agent skills authored and maintained by me, installable with `npx skills` — no npm publish needed.
+
+```sh
+npx skills add santgabo/skills --list
+npx skills add santgabo/skills --skill pi-slash-extensions --global --agent pi
+```
+
+- Currently includes **`pi-slash-extensions`**: create, modify, review, and debug TypeScript extensions for Pi Agent v1 (verified against Pi 1.0.1)
+- Each skill is self-contained with references and evals, bilingual docs (EN/ES)
+
+🔗 **[santgabo/skills](https://github.com/santgabo/skills)**
+
+---
+
 ### 🔌 usbfix — A safer macOS CLI for USB drives
 A terminal-friendly alternative to Disk Utility for inspecting, verifying, repairing, wiping, and formatting USB drives using native macOS utilities (`diskutil`, `fsck`).
 - Safety layers: no dangerous defaults, internal-disk lock, explicit whole-disk scoping, textual confirmation (`ERASE diskN`), `--dry-run` everywhere
@@ -164,6 +179,7 @@ pi install npm:pi-plan-claude-codex
 brew install santgabo/tap/usbfix
 
 # Agent skills
+npx skills add santgabo/skills --list
 npx skills add santgabo/windows-skills
 npx skills add santgabo/USBfixertool-CLI --skill usbfix-cli -g
 ```
