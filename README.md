@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer+%E2%80%94+Agentic+AI+%26+LLMOps;RAG+%C2%B7+MCP+%C2%B7+private+inference;Shipping+LLMs+to+production;I+like+macOS+and+headless+Linux)](https://git.io/typing-svg)
 
-**AI Engineer (Forward Deployed) · Agentic AI & LLMOps · AWS · Python · RAG · MCP**
+**AI Engineer | Agentic AI & LLMOps | AWS · Azure · Python · RAG · MCP · LLM Inference · Observability**
 
 [![Followers](https://img.shields.io/github/followers/santgabo?style=flat&logo=github)](https://github.com/santgabo?tab=followers)
 [![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://github.com/santgabo)
